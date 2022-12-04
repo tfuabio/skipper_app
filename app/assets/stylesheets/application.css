@@ -13,6 +13,8 @@
  *= require_tree .
  *= require_self
  */
+ @import "skippr"; 
+ 
 .image1 {
   background-image: url(image1.jpg);
 }
